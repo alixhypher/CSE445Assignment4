@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://alixhypher.com/Hotel"
+    xmlns="http://alixhypher.com/Hotel">
     <xs:element name="Hotels">
         <xs:complexType> 
             <xs:element name="Hotel" minOccurs="1" maxOccurs="unbounded">
