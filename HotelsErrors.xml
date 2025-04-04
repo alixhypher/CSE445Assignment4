@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.6">
+        <Name>Hyatt</Name>
+        <Phone>405-836-2277</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Street>10th St</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73099</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.8">
+        <Name>West Pointe</Name>
+        <Phone>800-513-4461</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>4783</Number>
+            <Street>Main St</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73099</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Motel 6</Name>
+        <Address NearestAirport="Will Rogers">
+            <Number>5165</Number>
+            <Street>Main St</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73099</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.8">
+        <Name>Marriot</Name>
+        <Phone>405-992-8316</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>1888</Number>
+            <Street>47th Ave</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73099</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Wyndham</Name>
+        <Phone>405-822-8000</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>10</Number>
+            <Street>N Broadway</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73102</Zip>
+    </Hotel>
+
+    <Hotel>
+        <Name>Governor's</Name>
+        <Phone>405-682-5299</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>2308</Number>
+            <Street>S Meridian Ave</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73108</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Microtel</Name>
+        <Name>Embassy Suites</Name>
+        <Phone>405-942-0011</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>624</Number>
+            <Street>Macarthur Blvd</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73128</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>SureStay</Name>
+        <Phone>405-787-1350</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>321</Number>
+            <Street>S Rockwell Ave</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73128</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Omni</Name>
+        <Phone>405-438-6500</Phone>
+        <Address NearestAirport="Will Rogers">
+            <Number>100</Number>
+            <Street>Oklahoma City Blvd</Street>
+            <City>Oklahoma City</City>
+            <State>OK</State>
+            <Zip>73109</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
