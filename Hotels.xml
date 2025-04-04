@@ -4,7 +4,7 @@
     xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
     <Hotel Rating="4.2">
-        <name>Westin</name>
+        <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -17,7 +17,7 @@
     </Hotel>
 
     <Hotel Rating="3.6">
-        <name>Hyatt</name>
+        <Name>Hyatt</Name>
         <Phone>405-836-2277</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>1211</Number>
@@ -29,7 +29,7 @@
     </Hotel>
 
     <Hotel Rating="3.8">
-        <name>West Pointe</name>
+        <Name>West Pointe</Name>
         <Phone>800-513-4461</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>4783</Number>
@@ -41,7 +41,7 @@
     </Hotel>
 
     <Hotel>
-        <name>Motel 6</name>
+        <Name>Motel 6</Name>
         <Phone>800-900-6138</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>5165</Number>
@@ -53,7 +53,7 @@
     </Hotel>
 
     <Hotel Rating="4.8">
-        <name>Marriot</name>
+        <Name>Marriot</Name>
         <Phone>405-992-8316</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>1888</Number>
@@ -65,7 +65,7 @@
     </Hotel>
 
     <Hotel>
-        <name>Wyndham</name>
+        <Name>Wyndham</Name>
         <Phone>405-822-8000</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>10</Number>
@@ -77,7 +77,7 @@
     </Hotel>
 
     <Hotel>
-        <name>Governor's</name>
+        <Name>Governor's</Name>
         <Phone>405-682-5299</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>2308</Number>
@@ -89,7 +89,7 @@
     </Hotel>
 
     <Hotel>
-        <name>Microtel</name>
+        <Name>Microtel</Name>
         <Phone>405-942-0011</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>624</Number>
@@ -101,7 +101,7 @@
     </Hotel>
 
     <Hotel>
-        <name>SureStay</name>
+        <Name>SureStay</Name>
         <Phone>405-787-1350</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>321</Number>
@@ -113,7 +113,7 @@
     </Hotel>
 
     <Hotel>
-        <name>Omni</name>
+        <Name>Omni</Name>
         <Phone>405-438-6500</Phone>
         <Address NearestAirport="Will Rogers">
             <Number>100</Number>
